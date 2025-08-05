@@ -1,6 +1,6 @@
 {
   "name": "My Flask App",
-  "short_name": "FlaskApp",
+  "short_name": "Quizzy",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
